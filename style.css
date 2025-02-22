@@ -322,10 +322,7 @@ header nav{
         left: 50%;
         justify-content: center;
     }
-    .slider {
-        mask-image: none;
-        -webkit-mask-image: none;
-    }
+    
 
 }
 .third-header{
